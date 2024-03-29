@@ -6,7 +6,6 @@ const dotenv = require('dotenv');
 dotenv.config({
     path: './config.env'
 });
-
 const replacePlaceHolder = require('./modules/replaceTemplate');
 
 let data = fs.readFileSync(`${__dirname}/dev-data/data.json`, 'utf-8');
