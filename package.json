@@ -1,0 +1,16 @@
+{
+  "name": "node-artifacts-boutique",
+  "version": "1.0.0",
+  "description": "A simple project made to learn the basic concepts of node.js for building a dynamic website using a file to be the database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Balaji T",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.0.3"
+  }
+}

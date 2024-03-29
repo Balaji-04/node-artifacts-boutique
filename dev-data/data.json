@@ -1,0 +1,259 @@
+[
+    {
+      "id": 1,
+      "name": "Rare Penny Collection",
+      "category": "Coins",
+      "oneLiner": "Curated set of rare pennies from different eras.",
+      "description": "Dive into the world of numismatics with this carefully curated Rare Penny Collection Set. Includes rare pennies from various historical periods, perfect for coin collectors and enthusiasts.",
+      "price": 49.99,
+      "dateListed": "2024-02-01",
+      "sellerDetails": {
+        "sellerName": "NumisTreasures",
+        "sellerLocation": "United States",
+        "sellerRating": 4.8
+      },
+      "quantity": 4,
+      "emoji": "🪙"
+    },
+    {
+      "id": 2,
+      "name": "Vintage Stamp Album",
+      "category": "Stamps",
+      "oneLiner": "Explore the beauty of vintage stamps with this collector's album.",
+      "description": "Take a journey through time with our Vintage Stamp Album. This album features a diverse collection of stamps from different countries and eras, providing a glimpse into the rich history of philately.",
+      "price": 29.99,
+      "dateListed": "2024-02-02",
+      "sellerDetails": {
+        "sellerName": "PhilatelyFinds",
+        "sellerLocation": "United Kingdom",
+        "sellerRating": 6
+      },
+      "quantity": 3,
+      "emoji": "🎒"
+    },
+    {
+      "id": 3,
+      "name": "Banknote Collector's Showcase",
+      "category": "Banknotes",
+      "oneLiner": "Display and collect rare banknotes from around the world.",
+      "description": "Elevate your banknote collection with our Collector's Showcase. This display case features rare and unique banknotes from various countries, offering a fascinating look at global currencies throughout history.",
+      "price": 39.99,
+      "dateListed": "2024-02-03",
+      "sellerDetails": {
+        "sellerName": "BanknoteWonders",
+        "sellerLocation": "Switzerland",
+        "sellerRating": 4.7
+      },
+      "quantity": 6,
+      "emoji": "💵"
+    },
+    {
+      "id": 4,
+      "name": "Rare Book Bundle",
+      "category": "Books",
+      "oneLiner": "Build your library with this bundle of rare and collectible books.",
+      "description": "Expand your literary collection with our Rare Book Library Bundle. This curated set includes rare and collectible books from different genres, providing a unique addition to any book lover's library.",
+      "price": 69.99,
+      "dateListed": "2024-02-04",
+      "sellerDetails": {
+        "sellerName": "BookNookTreasures",
+        "sellerLocation": "Canada",
+        "sellerRating": 4.6
+      },
+      "quantity": 4,
+      "emoji": "📚"
+    },
+    {
+      "id": 5,
+      "name": "Artwork Collection",
+      "category": "Artworks",
+      "oneLiner": "Own a piece of original artwork from talented artists.",
+      "description": "Immerse yourself in the world of art with our Original Artwork Collection. Each piece is a unique creation by talented artists, offering a diverse range of styles and themes for art enthusiasts and collectors.",
+      "price": 89.99,
+      "dateListed": "2024-02-05",
+      "sellerDetails": {
+        "sellerName": "ArtistryHub",
+        "sellerLocation": "France",
+        "sellerRating": 4.9
+      },
+      "quantity": 5,
+      "emoji": "🖼"
+    },
+    {
+      "id": 6,
+      "name": "Antique Furniture Set",
+      "category": "Antiques",
+      "oneLiner": "Add charm to your space with this curated antique furniture set.",
+      "description": "Transform your living space with our Antique Furniture Set. This curated collection features timeless pieces that add a touch of history and charm to any home or collection of vintage items.",
+      "price": 199.99,
+      "dateListed": "2024-02-06",
+      "sellerDetails": {
+        "sellerName": "TimelessAntiques",
+        "sellerLocation": "Italy",
+        "sellerRating": 4.7
+      },
+      "quantity": 6,
+      "emoji": "🪑"
+    },
+    {
+      "id": 7,
+      "name": "Vintage Toy Bundle",
+      "category": "Action Figures",
+      "oneLiner": "Relive childhood memories with this bundle of vintage toy action figures.",
+      "description": "Take a trip down memory lane with our Vintage Toy Action Figures Bundle. This collection includes iconic action figures from various franchises, making it a nostalgic addition for collectors and enthusiasts of vintage toys.",
+      "price": 59.99,
+      "dateListed": "2024-02-07",
+      "sellerDetails": {
+        "sellerName": "NostalgiaCollectibles",
+        "sellerLocation": "United States",
+        "sellerRating": 4.8
+      },
+      "quantity": 4,
+      "emoji": "🧸"
+    },
+    {
+      "id": 8,
+      "name": "Vinyl Records Classics Set",
+      "category": "Vinyl Records",
+      "oneLiner": "Experience the magic of classic music with this vinyl records box set.",
+      "description": "Immerse yourself in the golden era of music with our Vinyl Records Classics Box Set. This collection features timeless classics across genres, providing a rich auditory experience for vinyl record enthusiasts and collectors.",
+      "price": 79.99,
+      "dateListed": "2024-02-08",
+      "sellerDetails": {
+        "sellerName": "VinylGrooveEmporium",
+        "sellerLocation": "United Kingdom",
+        "sellerRating": 4.6
+      },
+      "quantity": 6,
+      "emoji": "🎸"
+    },
+    {
+      "id": 9,
+      "name": "Stamp Expedition Set",
+      "category": "Stamps",
+      "oneLiner": "Embark on a global stamp expedition with this set.",
+      "description": "Take your stamp collection to new heights with the World Stamp Expedition Set. This set includes stamps from around the world, showcasing diverse cultures, historical events, and iconic landmarks. Perfect for avid stamp collectors.",
+      "price": 54.99,
+      "dateListed": "2024-02-09",
+      "sellerDetails": {
+        "sellerName": "StampWorldExpeditions",
+        "sellerLocation": "Australia",
+        "sellerRating": 4.9
+      },
+      "quantity": 5,
+      "emoji": "🎒"
+    },
+    {
+      "id": 10,
+      "name": "Ancient Coin Collection",
+      "category": "Coins",
+      "oneLiner": "Own a piece of history with this collection of ancient coins.",
+      "description": "Delve into the past with our Ancient Coin Collection. This set features coins from ancient civilizations, offering a tangible connection to history for coin collectors and enthusiasts.",
+      "price": 79.99,
+      "dateListed": "2024-02-10",
+      "sellerDetails": {
+        "sellerName": "HistoricalCoinsHub",
+        "sellerLocation": "Greece",
+        "sellerRating": 4.8
+      },
+      "quantity": 6,
+      "emoji": "🪙"
+    },
+    {
+      "id": 11,
+      "name": "Rare Book Signed Edition",
+      "category": "Books",
+      "oneLiner": "Acquire a rare signed edition from a renowned author.",
+      "description": "Enhance your book collection with this Rare Book Signed Edition. Authenticated signature from a renowned author adds value to this unique piece, making it a coveted item for book enthusiasts and collectors.",
+      "price": 129.99,
+      "dateListed": "2024-02-11",
+      "sellerDetails": {
+        "sellerName": "SignedBooksEmpire",
+        "sellerLocation": "United States",
+        "sellerRating": 4.9
+      },
+      "quantity": 5,
+      "emoji": "📚"
+    },
+    {
+      "id": 12,
+      "name": "Contemporary Art Canvas Print",
+      "category": "Artworks",
+      "oneLiner": "Bring contemporary art into your space with this canvas print.",
+      "description": "Elevate your living space with a Contemporary Art Canvas Print. This high-quality print showcases the work of a contemporary artist, adding a touch of modernity and sophistication to your art collection.",
+      "price": 59.99,
+      "dateListed": "2024-02-12",
+      "sellerDetails": {
+        "sellerName": "ModernArtGallery",
+        "sellerLocation": "France",
+        "sellerRating": 4.7
+      },
+      "quantity": 4,
+      "emoji": "🖼"
+    },
+    {
+      "id": 13,
+      "name": "Vintage Wooden Furniture Set",
+      "category": "Antiques",
+      "oneLiner": "Enhance your home with this vintage wooden furniture set.",
+      "description": "Transform your living space with our Vintage Wooden Furniture Set. Crafted with timeless elegance, this set includes pieces that evoke the charm of a bygone era, perfect for collectors of vintage items and antique enthusiasts.",
+      "price": 249.99,
+      "dateListed": "2024-02-13",
+      "sellerDetails": {
+        "sellerName": "WoodenTreasures",
+        "sellerLocation": "Spain",
+        "sellerRating": 4.6
+      },
+      "quantity": 6,
+      "emoji": "🪑"
+    },
+    {
+      "id": 14,
+      "name": "Retro Toy Action Figures Collection",
+      "category": "Action Figures",
+      "oneLiner": "Rediscover retro fun with this collection of toy action figures.",
+      "description": "Take a nostalgic trip back in time with our Retro Toy Action Figures Collection. This assortment features beloved characters from the past, providing hours of joy for collectors and enthusiasts of vintage toys.",
+      "price": 49.99,
+      "dateListed": "2024-02-14",
+      "sellerDetails": {
+        "sellerName": "RetroToyHaven",
+        "sellerLocation": "United States",
+        "sellerRating": 4.8
+      },
+      "quantity": 4,
+      "emoji": "🐩"
+    },
+    {
+      "id": 15,
+      "name": "Classic Vinyl Records Anthology",
+      "category": "Vinyl Records",
+      "oneLiner": "Embark on a musical journey with this classic vinyl records anthology.",
+      "description": "Immerse yourself in the timeless melodies of our Classic Vinyl Records Anthology. This anthology brings together iconic tracks from various genres, providing a must-have collection for vinyl record enthusiasts and music lovers.",
+      "price": 99.99,
+      "dateListed": "2024-02-15",
+      "sellerDetails": {
+        "sellerName": "VinylMelodiesCo",
+        "sellerLocation": "United Kingdom",
+        "sellerRating": 4.7
+      },
+      "quantity": 6,
+      "emoji": "🎙"
+    },
+    {
+      "id": 16,
+      "name": "Historical Stamp Set",
+      "category": "Stamps",
+      "oneLiner": "Capture history with this set of stamps commemorating significant events.",
+      "description": "Explore the pages of history with our Historical Stamp Set. This collection features stamps commemorating significant events, making it a valuable addition for stamp collectors and history enthusiasts.",
+      "price": 34.99,
+      "dateListed": "2024-02-16",
+      "sellerDetails": {
+        "sellerName": "StampHistoryHub",
+        "sellerLocation": "Germany",
+        "sellerRating": 4.9
+      },
+      "quantity": 5,
+      "emoji": "🎒"
+    }
+]
+  
